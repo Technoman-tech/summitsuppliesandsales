@@ -69,9 +69,9 @@
     <h2>Product Categories</h2>
     <div class="categories">
         <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Camping+Gear" alt="Camping Gear">Camping Gear</div>
-        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Outdoor+Apparel" alt="Outdoor Apparel">Outdoor Apparel</div>
-        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Cell+Phones" alt="Cell Phones">Cell Phones</div>
-        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Electronics+%26+Accessories" alt="Electronics & Accessories">Electronics & Accessories</div>
+        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Outdoor+Apparel" alt="parka">parka</div>
+        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Cell+Phones" alt="iphone 16">iphone 16</div>
+        <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Electronics+%26+Accessories" alt="gpswatch">gpswatch</div>
         <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Seasonal+Deals" alt="Seasonal Deals">Seasonal Deals</div>
     </div>
 </div>
