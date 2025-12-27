@@ -57,6 +57,7 @@
 <nav>
     <a href="#home">Home</a>
     <a href="#products">Products</a>
+    <a href="https://summit-supplies-sales.myshopify.com" target="_blank">Shop Now</a>
     <a href="#gallery">Photo Gallery</a>
 </nav>
 
