@@ -68,7 +68,7 @@
 <div class="section" id="products">
     <h2>Product Categories</h2>
     <div class="categories">
-        <div class="category-card"><img src="survivalkit.jpg" alt="Camping Gear">Camping Gear</div>
+        <div class="category-card"><img src="monocular.jpg" alt="Camping Gear">Camping Gear</div>
         <div class="category-card"><img src="parka.jpg" alt="parka">Outdoor Apparel</div>
         <div class="category-card"><img src="iphone16.jpg" alt="iphone 16">Cell Phones</div>
         <div class="category-card"><img src="gpswatch.jpg" alt="gpswatch">Electronics</div>
