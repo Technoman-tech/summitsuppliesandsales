@@ -85,7 +85,7 @@
         <img src="https://via.placeholder.com/250x150?text=Gallery+1" alt="Boots">
         <img src="images/android.jpg" alt="android">
         <img src="images/gpswatch" alt="gpswatch">
-        <img src="images/hat.jpg" alt="hat">
+        <img src="hat.jpg" alt="hat">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="iphone16">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="jacket">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="monocular">
