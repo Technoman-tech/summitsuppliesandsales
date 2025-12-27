@@ -88,7 +88,7 @@
         <img src="hat.jpg" alt="hat">
         <img src="iphone16.jpg" alt="iphone16">
         <img src="jacket.jpg" alt="jacket">
-         <img src="monocular.jpg"monocular">
+        <img src="monocular.jpg alt="monocular">
         <img src="socks.jpg" alt="socks">
         <img src="survivalkit.jpg" alt="survivalkit">
         <img src="campinggear.jpg" alt="campinggear">
