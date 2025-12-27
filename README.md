@@ -72,6 +72,9 @@
         <div class="category-card"><img src="parka.jpg" alt="parka">Outdoor Apparel</div>
         <div class="category-card"><img src="iphone16.jpg" alt="iphone 16">Cell Phones</div>
         <div class="category-card"><img src="gpswatch.jpg" alt="gpswatch">Electronics</div>
+        <div class="category-card"><img src="Boots.jpg" alt="gpswatch">Electronics</div>
+         <div class="category-card"><img src="android.jpg" alt="Electronics">Electronics</div>
+        <div class="category-card"><img src="hat.jpg" alt="Seasonal Deals">Seasonal Deals</div>
         <div class="category-card"><img src="jacket.jpg" alt="Seasonal Deals">Seasonal Deals</div>
     </div>
 </div>
