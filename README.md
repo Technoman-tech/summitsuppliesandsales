@@ -83,9 +83,9 @@
     <h2>Photo Gallery</h2>
     <div class="gallery">
         <img src="https://via.placeholder.com/250x150?text=Gallery+1" alt="Boots">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+2" alt="android">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+3" alt="gpswatch">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="hat">
+        <img src="images/android.jpg" alt="android">
+        <img src="images/gpswatch" alt="gpswatch">
+        <img src="images/hat.jpg" alt="hat">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="iphone16">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="jacket">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="monocular">
