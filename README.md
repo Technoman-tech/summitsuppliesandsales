@@ -70,7 +70,7 @@
     <div class="categories">
         <div class="category-card"><img src="images/survivalkit.jpg" alt="Camping Gear">Camping Gear</div>
         <div class="category-card"><img src="images/parka.jpg" alt="parka">Outdoor Apparel</div>
-        <div class="category-card"><img src="images/iphone16.jpg" alt="iphone 16">Cell Phones</div>
+        <div class="category-card"><img src="iphone16.jpg" alt="iphone 16">Cell Phones</div>
         <div class="category-card"><img src="images/gpswatch.jpg" alt="gpswatch">Electronics</div>
         <div class="category-card"><img src="https://via.placeholder.com/200x120?text=Seasonal+Deals" alt="Seasonal Deals">Seasonal Deals</div>
     </div>
