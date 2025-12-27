@@ -61,7 +61,7 @@
 </nav>
 
 <div class="hero" id="home">
-    <h1>Your Adventure & Tech Starts Here</h1>
+    <h1>Buy Now on Shopify!</h1>
     <a href="#products">Browse Products</a>
 </div>
 
@@ -91,7 +91,11 @@
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="monocular">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="parka">
         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="socks">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="survival kit">
+        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="survivalkit">
+        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear">
+        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear2">
+        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear2">
+
 
 
 
