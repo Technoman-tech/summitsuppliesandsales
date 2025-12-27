@@ -82,18 +82,18 @@
 <div class="section" id="gallery">
     <h2>Photo Gallery</h2>
     <div class="gallery">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+1" alt="Boots">
-        <img src="images/android.jpg" alt="android">
-        <img src="gpswatch" alt="gpswatch">
+        <img src="Boots.jpg" alt="Boots">
+        <img src="android.jpg" alt="android">
+        <img src="gpswatch.jpg" alt="gpswatch">
         <img src="hat.jpg" alt="hat">
-        <img src="iphone16" alt="iphone16">
-        <img src="jacket" alt="jacket">
-         <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="monocular">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="socks">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="survivalkit">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear2">
-        <img src="https://via.placeholder.com/250x150?text=Gallery+4" alt="campinggear2">
+        <img src="iphone16.jpg" alt="iphone16">
+        <img src="jacket.jpg" alt="jacket">
+         <img src="monocular.jpg"monocular">
+        <img src="socks.jpg" alt="socks">
+        <img src="survivalkit.jpg" alt="survivalkit">
+        <img src="campinggear.jpg" alt="campinggear">
+        <img src="campinggear2.jpg" alt="campinggear2">
+        <img src="campinggear3.jpg" alt="campinggear3">
 
 
 
