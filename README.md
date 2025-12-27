@@ -63,7 +63,7 @@
 
 <div class="hero" id="home">
     <h1>Buy Now on Shopify!</h1>
-    <a href="#products">Browse Products</a>
+    <a href="https://summit-supplies-sales.myshopify.com" target="_blank">Shop Now</a>
 </div>
 
 <div class="section" id="products">
