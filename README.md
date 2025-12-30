@@ -43,6 +43,7 @@
         footer a { color: #fff; margin: 0 10px; text-decoration: underline; }
         .policy-section { padding: 40px 20px; max-width: 800px; margin: auto; text-align: left; }
         .policy-section h2 { text-align: center; margin-bottom: 20px; }
+        .about-us { padding: 20px; text-align: center; background: #f7f7f7; font-size: 0.9rem; }
         @media (max-width: 768px) {
             .categories { flex-direction: column; align-items: center; }
             .category-card { width: 80%; }
@@ -103,10 +104,10 @@
 </div>
 
 <div class="policy-section" id="privacy">
-    <h2>Refund & Returns Policy</h2>
-    <p>Refunds are issued for eligible returns within 7 business days of receiving returned items. Shipping costs are non-refundable. To initiate a return, contact our support team at 
-    <a href="mailto:summit_sales@outlook.com">summit_sales@outlook.com</a> with your order details. Damaged or incorrect items will be fully refunded or replaced.</p>
+    <h2>Privacy Policy</h2>
+    <p>We respect your privacy. Personal information collected during purchases is used solely for order processing, customer service, and legal compliance. We do not sell or share your information with third parties, except as required for payment processing, shipping, or by law.</p>
 </div>
+
 <div class="policy-section" id="shipping">
     <h2>Shipping & Returns Policy</h2>
     <p>Orders are processed within 2-5 business days and shipped via standard carriers. Delivery times vary based on location. Customers are responsible for accurate shipping information. Returns are accepted within 14 days of delivery if items are unused and in original packaging.</p>
@@ -114,7 +115,13 @@
 
 <div class="policy-section" id="refunds">
     <h2>Refund & Returns Policy</h2>
-    <p>Refunds are issued for eligible returns within 7 business days of receiving returned items. Shipping costs are non-refundable. To initiate a return, contact our support team at summit_sales@outlook.com with your order details. Damaged or incorrect items will be fully refunded or replaced.</p>
+    <p>Refunds are issued for eligible returns within 7 business days of receiving returned items. Shipping costs are non-refundable. To initiate a return, contact our support team at 
+    <a href="mailto:summit_sales@outlook.com">summit_sales@outlook.com</a> with your order details. Damaged or incorrect items will be fully refunded or replaced.</p>
+</div>
+
+<!-- About Us -->
+<div class="about-us">
+    <p>About Us: Summit Supplies & Sales is owned and operated by Phillip Nasogaluak, providing quality products at smart prices. We are committed to excellent customer service and reliable shipping.</p>
 </div>
 
 <footer>
@@ -129,3 +136,4 @@
 
 </body>
 </html>
+
