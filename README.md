@@ -114,7 +114,7 @@
 
 <div class="policy-section" id="refunds">
     <h2>Refund & Returns Policy</h2>
-    <p>Refunds are issued for eligible returns within 7 business days of receiving returned items. Shipping costs are non-refundable. To initiate a return, contact our support team at support@summit-supplies-sales.myshopify.com with your order details. Damaged or incorrect items will be fully refunded or replaced.</p>
+    <p>Refunds are issued for eligible returns within 7 business days of receiving returned items. Shipping costs are non-refundable. To initiate a return, contact our support team at summit_sales@outlook.com with your order details. Damaged or incorrect items will be fully refunded or replaced.</p>
 </div>
 
 <footer>
