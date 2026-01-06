@@ -49,11 +49,24 @@
             .category-card { width: 80%; }
             .gallery img { width: 80%; height: auto; }
         }
-    </style>
+        .site-logo {
+    max-width: 180px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .site-logo {
+        max-width: 140px;
+    }
+}
+
+</style>
 </head>
 <body>
 
 <header>
+    <img src="logo.png" alt="Summit Supplies & Sales Logo" class="site-logo">
     <h1>Summit Supplies & Sales</h1>
     <p>Quality Products, Smart Prices</p>
 </header>
