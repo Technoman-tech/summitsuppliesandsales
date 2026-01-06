@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,23 +15,8 @@
         header {
             background: #1f4db8;
             color: #fff;
-            padding: 20px;
+            padding: 30px 20px;
             text-align: center;
-        }
-
-        /* LOGO FIX */
-        .site-logo {
-            display: block;
-            max-width: 180px;
-            width: 100%;
-            height: auto;
-            margin: 0 auto 10px auto;
-        }
-
-        @media (max-width: 768px) {
-            .site-logo {
-                max-width: 140px;
-            }
         }
 
         nav {
@@ -177,7 +161,6 @@
 <body>
 
 <header>
-    <img src="logo.png" alt="Summit Supplies & Sales Logo" class="site-logo">
     <h1>Summit Supplies & Sales</h1>
     <p>Quality Products, Smart Prices</p>
 </header>
@@ -223,7 +206,7 @@
 
 <div class="policy-section" id="terms">
     <h2>Terms & Conditions</h2>
-    <p>Welcome to Summit Supplies & Sales. By accessing our website, you agree to comply with our terms. Products are offered as-is, and prices may change without notice.</p>
+    <p>Welcome to Summit Supplies & Sales. By accessing our website, you agree to comply with our terms.</p>
 </div>
 
 <div class="policy-section" id="privacy">
@@ -257,4 +240,5 @@
 
 </body>
 </html>
+
 
