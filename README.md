@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,9 +13,16 @@
             color: #333;
         }
 
+        header {
+            background: #1f4db8;
+            color: #fff;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
         nav {
             background: #003087;
-            padding: 15px 10px;
+            padding: 10px;
             text-align: center;
         }
 
@@ -28,7 +35,7 @@
 
         .hero {
             background: linear-gradient(135deg, #1f4db8, #79aaff);
-            padding: 80px 20px;
+            padding: 60px 20px;
             text-align: center;
             color: white;
         }
@@ -154,6 +161,11 @@
 
 <body>
 
+<header>
+    <h1>Summit Supplies & Sales</h1>
+    <p>Quality Products, Smart Prices</p>
+</header>
+
 <nav>
     <a href="#home">Home</a>
     <a href="#products">Products</a>
@@ -229,6 +241,7 @@
 
 </body>
 </html>
+
 
 
 
