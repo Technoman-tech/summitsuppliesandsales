@@ -184,13 +184,13 @@
 <nav>
     <a href="#home">Home</a>
     <a href="#products">Products</a>
-    <a href="https://dtmx2g-0c.myshopify.com/password" target="_blank">Shop Now</a>
+    <a href="https://dtmx2g-0c.myshopify.com" target="_blank">Shop Now</a>
     <a href="#gallery">Photo Gallery</a>
 </nav>
 
 <div class="hero" id="home">
     <h1>Buy Now on Shopify!</h1>
-    <a href=https://dtmx2g-0c.myshopify.com/"" target="_blank">Shop Now</a>
+    <a href="https://dtmx2g-0c.myshopify.com" target="_blank">Shop Now</a>
 </div>
 
 <div class="section" id="products">
