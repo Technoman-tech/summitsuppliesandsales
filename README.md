@@ -173,7 +173,7 @@
 
 <header>
     <a href="#home">
-        <img src="a_vector_style_company_logo_for_summit_supplies.png" 
+        <img src="SummitLogo.png" 
              alt="Summit Supplies & Sales Logo" 
              class="logo">
     </a>
