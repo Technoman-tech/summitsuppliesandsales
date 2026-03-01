@@ -19,6 +19,13 @@
             text-align: center;
         }
 
+        .logo {
+            max-width: 300px;
+            width: 90%;
+            height: auto;
+            margin-bottom: 15px;
+        }
+
         nav {
             background: #003087;
             padding: 10px;
@@ -154,6 +161,10 @@
                 width: 80%;
                 height: auto;
             }
+
+            .logo {
+                max-width: 220px;
+            }
         }
     </style>
 </head>
@@ -161,6 +172,11 @@
 <body>
 
 <header>
+    <a href="#home">
+        <img src="a_vector_style_company_logo_for_summit_supplies.png" 
+             alt="Summit Supplies & Sales Logo" 
+             class="logo">
+    </a>
     <h1>Summit Supplies & Sales</h1>
     <p>Quality Products, Smart Prices</p>
 </header>
@@ -240,7 +256,3 @@
 
 </body>
 </html>
-
-
-
-
