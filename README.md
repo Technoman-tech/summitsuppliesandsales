@@ -19,11 +19,11 @@
             text-align: center;
         }
 
+        /* UPDATED LOGO SIZE */
         .logo {
-            max-width: 300px;
-            width: 90%;
+            width: 150px;
             height: auto;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
 
         nav {
@@ -160,10 +160,6 @@
             .gallery img {
                 width: 80%;
                 height: auto;
-            }
-
-            .logo {
-                max-width: 220px;
             }
         }
     </style>
