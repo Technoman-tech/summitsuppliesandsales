@@ -12,18 +12,27 @@
             color: #333;
         }
 
+        /* Header with logo only */
         header {
             background: #1f4db8;
             color: #fff;
             padding: 30px 20px;
             text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
-        /* UPDATED LOGO SIZE */
+        /* Logo styling */
         .logo {
             width: 150px;
             height: auto;
             margin-bottom: 10px;
+        }
+
+        header p {
+            margin: 0;
+            font-size: 1.2rem;
         }
 
         nav {
@@ -173,7 +182,6 @@
              alt="Summit Supplies & Sales Logo" 
              class="logo">
     </a>
-    <h1>Summit Supplies & Sales</h1>
     <p>Quality Products, Smart Prices</p>
 </header>
 
