@@ -2,21 +2,20 @@
 ---
 @import "{{ site.theme }}";
 
-/* Hide the default GitHub Pages header/title area */
-.site-header,
-.page-header,
-header[role="banner"],
-header .project-name,
-header .site-title,
-header h1,
-header h2,
-header a[href="/"],
-header a[href="{{ site.baseurl }}/"],
-header a[href="{{ site.url }}{{ site.baseurl }}/"] {
+/* Target the exact theme header link */
+a[href="http://www.summitsuppliesandsales.ca/"] {
   display: none !important;
 }
 
-/* Remove any extra top margin/padding the theme adds */
+/* Also catch any similar theme headers */
+.site-header a,
+header a[href="/"],
+.project-name,
+.site-title {
+  display: none !important;
+}
+
+/* Remove any leftover spacing */
 body {
   margin-top: 0 !important;
   padding-top: 0 !important;
