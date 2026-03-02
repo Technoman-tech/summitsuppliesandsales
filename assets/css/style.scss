@@ -2,8 +2,22 @@
 ---
 @import "{{ site.theme }}";
 
-header h1,
+/* Hide the default GitHub Pages header/title area */
+.site-header,
+.page-header,
+header[role="banner"],
+header .project-name,
 header .site-title,
-header .project-name {
-  display: none;
+header h1,
+header h2,
+header a[href="/"],
+header a[href="{{ site.baseurl }}/"],
+header a[href="{{ site.url }}{{ site.baseurl }}/"] {
+  display: none !important;
+}
+
+/* Remove any extra top margin/padding the theme adds */
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
